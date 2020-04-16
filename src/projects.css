@@ -57,3 +57,10 @@
         opacity   : 0;
     }
 } 
+
+.stack{
+    font-size: 20px;
+    position: relative;
+    top: 5px;
+    left: 10px;
+}
