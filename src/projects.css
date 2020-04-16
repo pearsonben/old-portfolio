@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+
+
+.project-image, .project-title, .description, .link{
+    margin-bottom: 2vh;
+    
+}
+
+.project-title{
+    font-size: 50px;
+}
+
+.description{
+    margin-top: 3vh;
+    font-size: 20px;
+}
+
+
+.container-fluid{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 54px;   
+}
+
+.project-image img{
+    border-radius: 25px;
+}
+
+
+@keyframes fade-in {
+    0%{
+        opacity: 0;
+        transform: scale(0.1);
+    }
+    to{
+        transform: scale(1);
+        opacity: 0.95;
+    }
+}
+
+
+.highlighted-green{
+    color: rgb(75, 255, 66);
+    animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+    from {
+        transform : scale(1);
+        opacity   : 0;
+    }
+    50% {
+        opacity   : 1;
+    }
+    to {
+        transform : scale(1);
+        opacity   : 0;
+    }
+} 

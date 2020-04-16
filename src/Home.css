@@ -1,0 +1,44 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.text-col{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    line-height: 40px; 
+}
+
+.highlighted-red{
+    color: rgb(255, 78, 119);
+}
+
+.highlighted-green{
+    color: rgb(75, 255, 66);
+    animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+    from {
+        transform : scale(1);
+        opacity   : 1;
+    }
+    50% {
+        transform : scale(0.75);
+        opacity   : 0.5;
+    }
+    to {
+        transform : scale(1);
+        opacity   : 1;
+    }
+} 
+
+.container-fluid{
+    animation: fade-in 1s linear;
+}
+
+button{
+    text-align: center;
+}
+
+
+
