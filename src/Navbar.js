@@ -17,9 +17,12 @@ export default function Navbar(){
                     <li class="nav-item">
                         <Link to="/contact" class="nav-link">contact<span class="sr-only">(current)</span></Link>
                     </li>
-                    <li class="nav-item">
+
+
+                    {/* remove below to add experiences tab back*/}
+                    {/*<li class="nav-item">
                     <Link to="/experiences" class="nav-link">experiences<span class="sr-only">(current)</span></Link>
-                    </li>
+                    </li> */}
                     
                 </ul>
                 <span class="navbar-brand">
