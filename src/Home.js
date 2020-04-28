@@ -15,7 +15,7 @@ export default function Home(){
                             <span className="highlighted-green">{"<h1>"}</span>Hi, I'm <span className="highlighted-red">Ben Pearson,</span> an
                             <br></br>
                             
-                            aspiring web developer from Wales.<span className="highlighted-green">{"</h1>"}</span>
+                            aspiring developer from Wales.<span className="highlighted-green">{"</h1>"}</span>
                             <br></br>
                             <br></br>
                             <span style={{fontSize: "22px"}}>
