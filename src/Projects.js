@@ -19,7 +19,7 @@ export default function Projects(){
             <div className="row" style={{backgroundColor:"rgb(6, 0, 40)"}}>
 
                 <div className="col-12 align-self-center">
-                    <h3><span className="highlighted-green">{"<p1>"}</span>below you can find some of the projects i've worked on<span className="highlighted-green">{"<p1>"}</span></h3>
+                    <h3>below you can find some of the projects i've worked on</h3>
                 </div>
             </div>
 

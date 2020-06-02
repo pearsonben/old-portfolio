@@ -12,17 +12,17 @@ export default function Home(){
                 <div class="container-fluid">
                     <div class="row align-items-center justify-content-around" style={{height: "100vh"}}>
                         <div class="col-5 text-col" align="center">
-                            <span className="highlighted-green">{"<h1>"}</span>Hi, I'm <span className="highlighted-red">Ben Pearson,</span> an
+                                Hi, I'm <span className="highlighted-red">Ben Pearson,</span> an
                             <br></br>
                             
-                            aspiring developer from Wales.<span className="highlighted-green">{"</h1>"}</span>
+                            aspiring developer from Wales.
                             <br></br>
                             <br></br>
                             <span style={{fontSize: "22px"}}>
-                                <span className="highlighted-green">{"<p1>"}</span>I began my <span className="highlighted-red">programming</span> journey 5 years ago,<br></br> where I 
+                                I began my <span className="highlighted-red">programming</span> journey 5 years ago,<br></br> where I 
                                 helped develop a wireless methane alarm <br></br> system for those 
                                 hard of sight and hearing.
-                                <span className="highlighted-green">{"</p1>"}</span>
+                                
                             </span>
                         </div>
                         <div class="col-5 animation-area" align="center">
