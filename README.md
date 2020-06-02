@@ -1,1 +1,2 @@
-2nd Attempt of a portfolio, to showcase some of my work and experiences, and for practicing working with React.JS.
+2nd Portfolio attempt using ReactJS and some Bootstrap components. 
+Website live here: https://benpearson.netlify.app/
